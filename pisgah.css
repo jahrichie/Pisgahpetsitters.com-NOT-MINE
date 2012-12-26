@@ -1,0 +1,182 @@
+.verdsmall {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #CCCCCC;
+	text-decoration: none;
+	line-height: 12px;
+}
+.CorporateBox {
+	border: 1px solid B39B61;
+}
+
+.arial2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;	
+	color: #8B50A3;
+	text-decoration: none;
+}
+.verd1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.verd1black {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	line-height: 13px;
+	text-decoration: none;
+}
+
+.verd1black2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #787878;
+	text-decoration: none;
+	line-height: 14px;
+}
+
+.arial1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #808080;
+	text-decoration: none;
+}
+a:hover {
+	color: #999999;	
+	text-decoration: none;	
+}
+a:link {
+	color: #8B50A3;
+	text-decoration: none;
+}
+a:visited {
+	color: #8B50A3;
+	text-decoration: none;
+}
+
+.buttonSilver {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	background-color: #ECECEC;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #333333;
+	border-bottom-color: #333333;
+	border-left-color: #999999;
+}
+.buttonGold {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	background-color: #FFFAE8;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FEE88C;
+	border-right-color: #FFCC00;
+	border-bottom-color: #FFCC00;
+	border-left-color: #FEE88C;
+}
+.buttonPlatinum {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	background-color: #EFEDE8;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #D8D2C4;
+	border-right-color: #B6A687;
+	border-bottom-color: #B6A687;
+	border-left-color: #D8D2C4;
+}
+.buttonOrange {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+	background-color: #FFF8F0;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FAD8B4;
+	border-right-color: #FF9D33;
+	border-bottom-color: #FF9D33;
+	border-left-color: #FAD8B4;
+}
+.buttonBlue {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #283D70;
+	text-decoration: none;
+	background-color: #EBEEF5;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #C4CDE2;
+	border-right-color: #24386B;
+	border-bottom-color: #24386B;
+	border-left-color: #C4CDE2;
+}
+.heading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #3D59A0;
+	text-decoration: none;
+	letter-spacing: 4px;
+}
+body {
+	background-repeat: repeat-y;
+	background-position: center top;
+}
